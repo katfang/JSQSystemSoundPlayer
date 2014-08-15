@@ -18,6 +18,7 @@
 
 #import "JSQSystemSoundPlayer.h"
 #import <AudioToolbox/AudioToolbox.h>
+#import <UIKit/UIKit.h>
 
 static NSString * const kJSQSystemSoundPlayerUserDefaultsKey = @"kJSQSystemSoundPlayerUserDefaultsKey";
 
